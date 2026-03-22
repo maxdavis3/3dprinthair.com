@@ -1,0 +1,183 @@
+baseURL = "https://3dprinthair.com/"
+languageCode = "en-us"
+title = "3D Print Hair"
+theme = "printwire"
+
+[params]
+tagline       = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
+description   = "3D Print Hair covers additive manufacturing in the hair and beauty sector — from custom hair clips and salon tools to research-grade hair follicle bioprinting models."
+keywords      = "3D printed hair accessories, hair clip 3D print, salon tool AM, hair follicle bioprinting, trichology model, custom hair tools"
+logoEmoji     = "💇"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#f472b6"
+colorPrimaryDark  = "#ec4899"
+colorPrimaryLight = "#f9a8d4"
+colorBgDark       = "#0f0510"
+colorBgSection    = "#140a18"
+colorBgCard       = "#1a0d20"
+colorBgCardHover  = "#211028"
+
+fontPrimary   = "Josefin+Sans"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"]
+
+heroEyebrow  = "Hair Industry AM"
+heroTitle    = "3D Print <em>Hair</em>"
+heroSubtitle = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+
+overviewTitle   = "Custom Hair Industry Manufacturing"
+overviewText    = "Bespoke salon tools, custom grip accessories, and research-grade hair follicle constructs — additive manufacturing serves every layer of the hair industry."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Hair Services"
+servicesSubtitle = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 100
+suffix = "B+"
+label  = "Global Hair Care Market"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Custom Accessory Lead Time"
+
+[[params.stats]]
+count  = 300
+suffix = "µm"
+label  = "Hair Follicle Model Resolution"
+
+[[params.stats]]
+count  = 50
+suffix = "%"
+label  = "Tooling Cost Reduction"
+
+
+[[params.applications]]
+title       = "Hair Accessories"
+description = "Custom combs, clips, pins, and styling tools in nylon, resin, and flexible TPU."
+image       = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+
+[[params.applications]]
+title       = "Salon Equipment"
+description = "Bespoke salon chair attachments, styling station components, and custom tool holders."
+image       = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+
+[[params.applications]]
+title       = "Wig & Extension Components"
+description = "Custom wig caps, extension clips, and lace front templates printed to exact head measurements."
+image       = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+
+[[params.applications]]
+title       = "Trichology Research Models"
+description = "Hair follicle tissue constructs for dermatological research and hair loss drug development."
+image       = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "💇"
+title       = "Custom Hair Accessories"
+description = "Bespoke combs, clips, pins, and grip accessories in SLS nylon, flexible TPU, and luxury resin finishes."
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "Salon Tool Manufacturing"
+description = "Custom salon equipment — diffuser attachments, sectioning clips, and colour bowl holders to spec."
+
+[[params.servicesPreview]]
+icon        = "✨"
+title       = "Wig & Extension Systems"
+description = "Custom-fitted wig caps from 3D head scans, extension weft clips, and lace front templates."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Hair Follicle Bioprinting"
+description = "Research-grade hair follicle constructs for trichology, alopecia research, and cosmetic efficacy testing."
+
+
+[[params.services]]
+name        = "Custom Hair Accessories"
+description        = "Bespoke combs, clips, pins, and grip accessories in SLS nylon, flexible TPU, and luxury resin finishes."
+icon        = "💇"
+image        = "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&q=80"
+
+[[params.services]]
+name        = "Salon Tool Manufacturing"
+description        = "Custom salon equipment — diffuser attachments, sectioning clips, and colour bowl holders to spec."
+icon        = "⚙️"
+image        = "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&q=80"
+
+[[params.services]]
+name        = "Wig & Extension Systems"
+description        = "Custom-fitted wig caps from 3D head scans, extension weft clips, and lace front templates."
+icon        = "✨"
+image        = "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=800&q=80"
+
+[[params.services]]
+name        = "Hair Follicle Bioprinting"
+description        = "Research-grade hair follicle constructs for trichology, alopecia research, and cosmetic efficacy testing."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintskincare.com"
+url         = "https://3dprintskincare.com"
+description = "Skincare & beauty AM"
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintjewelry.com"
+url         = "https://3dprintjewelry.com"
+description = "Jewelry 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
