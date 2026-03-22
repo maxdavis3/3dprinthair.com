@@ -1,0 +1,20 @@
+---
+title: "3D Print Hair Services"
+type: "page"
+layout: "services"
+description: "Professional 3D printed hair accessories and salon tools services — Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
+heroImage: "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
