@@ -1,9 +1,18 @@
 baseURL = "https://3dprinthair.com/"
 languageCode = "en-us"
 title = "3D Print Hair"
-theme = "printwire"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Hair"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">HAIR</span>'
 tagline       = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
 description   = "3D Print Hair covers additive manufacturing in the hair and beauty sector — from custom hair clips and salon tools to research-grade hair follicle bioprinting models."
 keywords      = "3D printed hair accessories, hair clip 3D print, salon tool AM, hair follicle bioprinting, trichology model, custom hair tools"
