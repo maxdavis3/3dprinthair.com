@@ -11,6 +11,7 @@ title = "3D Print Hair"
       unsafe = true
 
 [params]
+ogImage       = "/images/04_vascularized_heart.png"
 siteName      = "3D Print Hair"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">HAIR</span>'
 tagline       = "Custom 3D printed hair accessories, salon equipment, and bioprinted hair follicle models for the beauty and trichology industries."
